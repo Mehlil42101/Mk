@@ -1,0 +1,205 @@
+Item/Sr./N,"Item/Size
+(nm)/S",Item/Shape/S,Item/AgNo3 conc. (Mm)/S,"Item/Mic
+(mg/ml)/S","Item/Zoi
+(mm)
+(µg/ml)/S",Item/Pathogen microbe/S,Item/PM/S,Item/Ref/S
+1,22.45 nm.,Spherical,1mM,"1.25 mg/ml (for P. aeruginosa, Aeromonas sp.) to 2.5 mg/ml (for E. coli, Shigella sp.)","E. coli: 10 mm.   
+Shigella sp.: 12 mm.   
+P. aeruginosa: 14 mm.   
+Aeromonas sp.: 17 mm","Escherichia coli, Shigella spp., Aeromonas spp., and Pseudomonas aeruginosa.","Solanum xanthocarpum, Fruit",[1]
+2,26.28 nm,Spherical,0.1 mM,NA,"18 mm (S. pneumonia), 24 mm (S. aureus) at 50 µg/ml","Bacteria: Streptococcus pneumonia, Staphylococcus aureus. Fungi: Rhizopus stolonifer, Aspergillus flavus","Conocarpus Lancifolius.  
+Fruit extract",[2]
+3,NA,Nearly spherical.,1 mM,NA,NA,NA,"Trigonella foenum-graecum, seed",[3]
+4,46 nm,Spherical,1 mM,NA,"Streptomycin (reference drug): 10 µg: 2.0 (S. aureus), 3.2 (B. cereus), 2.8 (P. aeruginosa), 2.6 (B. subtilis); 20 µg: 2.6, 3.4, 3.4, 3.1, respectively.
+Plant extract: 10 µg: 0.7, 0.4, -, -; 20 µg: 0.8, 0.6, 1.0, 1.1, respectively.
+ Nanoparticles: 10 µg: 1.0, 0.8, -, -; 20 µg: 1.4, 1.3, 1.8, 2.0, respectively.","Bacillus subtilis, Bacillus cereus, Staphylococcus aureus, Pseudomonas aeruginosa, E. coli","Piper longum,
+fruit",[4]
+5,"20-35 nm (SEM), 25 nm (TEM), 25-35 nm (Zetasizer)",Spherical,1 mM,NA,"Bacillus aryabhattai: 20.71 ± 0.23 mm 
+Bacillus megaterium: 14.41 ± 0.07 mm 
+Bacillus subtilis: 19.96 ± 0.45 mm 
+Arthrobacter creatinolyticus: 13.98 ± 0.09 mm
+Escherichia coli: 16.92 ± 0.18 mm 
+ Alcaligenes faecalis: 26.18 ± 0.25 mm
+Saccharomyces cerevisiae: 17.48 ± 0.39 mm 
+ Aspergillus niger: 18.79 ± 0.48 mm 
+ Rhizopus oryzae: 19.37 ± 0.62 mm","Escherichia coli, Alcaligenes faecalis, Arthrobacter creatinolyticus, Bacillus aryabhattai, Bacillus subtilis, Bacillus megaterium, Saccharomyces cerevisiae, Aspergillus niger","Psidium guajava L.  ,Leaf",[5]
+6,35 nm,Spherical,1 mM,NA,"E.coli (20 µg/ml) was 15 mm
+S.aureus (20 µg/ml) was 20 mm",Escherichia coli and Staphylococcus aureus,"Garcinia mangostana  , Leaf",[6]
+7,4 nm to 14.81 nm,Spherical and uniform,1 ml solution,NA,"Staphylococcus aureus*: 18 mm (25 µL), 20 mm (50 µL), and 20 mm (100 µL)
+Streptococcus mutans*: 15 mm (25 µL), 16 mm (50 µL), and 16 mm (100 µL)
+Lactobacillus sps*: 16 mm (25 µL), 17 mm (50 µL), and 18 mm (100 µL)
+Candida albicans*: 11 mm (25 µL), 13 mm (50 µL), and 13 mm (100 µL)","Staphylococcus aureus, Streptococcus mutans, and Lactobacillus species. Less effective against Candida albicans.","Neem (Azadirachta indica),leaves and Turmeric (Curcuma longa),powder",[7]
+8,159-181 nm,Spherical,1 mM,0.009875-0.0395 mg/100µl,"at 40 µl): 
+B. cereus: 19.25 ± 0.19 mm
+P. aeruginosa: 16.50 ± 0.30 mm
+S. dysentriae: 15.90 ± 0.85 mm
+S. aureus: 15.22 ± 0.52 mm
+E. coli: 15.15 ± 0.62 mm
+Y. pestis: 14.65 ± 0.38 mm
+S. typhi: 14.50 ± 0.70 mm","Bacillus cereus, Pseudomonas aeruginosa, Escherichia coli, Staphylococcus aureus, Salmonella typhi, Shigella dysenteriae, Yersinia pestis","Aegle marmelos  , fruit",[8]
+9,8 to 50 nm,Spherical with smooth edges,NA,NA,NA,"Enterobacter cloacae, Escherichia coli, Klebsiella pneumoniae, Salmonella typhi, Vibrio cholerae","Spondias mombin  , leaf",[9]
+10,14 ± 2 nm,Spherical,1 mM,"MIC-0: The lowest concentration capable of inhibiting 100% 
+MIC-1: The lowest concentration capable of inhibiting ≥80% 
+MIC-2: The lowest concentration capable of ≥50%",NA,"Streptococcus pyogenes, Pseudomonas aeruginosa, and Staphylococcus aureus (including methicillin-resistant strains), Microsporum canis, M. gypseum, Epidermophyton floccosum, Trichophyton rubrum, T. mentagrophytes, T. tonsurans, Malassezia furfur, M. sympodialis, M. globosa, M. restricta, Candida albicans, C. krusei, C. tropicalis, C. parapsilosis, and C. glabrata","Acanthospermum australe  ,leaves",[10]
+11,"Ag-NPs: 11-19 nm (SEM), 7-14 nm (TEM)",Spherical,0.010 mol/L,1-512 µg/mL,NA,"Staphylococcus aureus (methicillin- and vancomycin-resistant strains)   
+Aspergillus flavus   
+Aspergillus parasiticus",Syzygium cumini  .leaves,[11]
+12,20 nm,Spherical and well-dispersed,20 mg,32-1024 µg/mL,NA,Staphylococcus aureus,Chlorella vulgaris  . extract,[12]
+13,"126 nm, 88 nm, 141 nm",,1 mM,NA,"Escherichia coli: 4-6 mm
+Bacillus subtilis: 5-7 mm
+Klebsiella pneumonia: 6-9 mm
+Salmonella typhimurium: 4-5 mm","Escherichia coli, Bacillus subtilis, Klebsiella pneumonia, Salmonella typhimurium","Aegle marmelos, Dalbergia sissoo, and Lantana camara",[13]
+14,NA,Spherical,"0.001 M, 0.01 M, and 0.1 M",NA,4 mm,"Gram-positive bacteria (Staphylococcus spp., Bacillus spp.)   
+Gram-negative bacteria (Pseudomonas spp., Escherichia coli)   
+Fungal pathogens (Aspergillus niger, Aspergillus flavus, Penicillium spp.)","Syzygium aromaticum (Clove)  ,Dried buds",[14]
+15,small,mono disperse,1.0-5.0 mM,NA,NA,"Staphylococcus aureus   
+Micrococcus luteus   
+Bacillus subtilis   
+Escherichia coli   
+Klebsiella pneumoniae","Ocimum gratissimum  ,leaf",[15]
+16,35-80 nm,NA,10 mM,NA,NA,"E. coli, E. faecalis, P. aeruginosa, and C. albicans","Murraya koenigii  , leaf",[16]
+17,NA,NA,1.0 M,"2.5, 5.0, 10.0, 20.0, 40.0, 80.0, and 120.0 µg/mL.   
+10 µg/mL for E. coli and 20 µg/mL for S. typhi and B. cereus.",NA,NA,"Ficus ingens, leaf",[17]
+18,7-11 nm,spherical,NA,NA,NA,NA,"Kenaf, seed",[18]
+19,NA,NA,"0.001M, 0.01M, 0.1M, 1 M",NA,NA,Human and fish bacterial pathogens,"Asparagus racemosus , root",[19]
+20,37.55 nm,NA,NA,NA,NA,NA,"Leucaena leucocephala, leaf",[20]
+21,350 to 450 nm,NA,1 mM and 3 mM,"(mg/mL):
+Extract: 
+S. aureus (ATCC 25923): 0.25
+P. aeruginosa (ATCC 27853): 0.25   
+AgNPs (1mM): 
+S. aureus (ATCC 25923): 0.0625
+P. aeruginosa (ATCC 27853): 0.03125   
+AgNPs-hydrogel (1mM): 
+S. aureus (ATCC 25923): 0.125
+P. aeruginosa (ATCC 27853): 0.0625","Extract: 
+S. aureus (ATCC 25923): 11
+P. aeruginosa (ATCC 27853): 10   
+AgNPs (1mM): 
+S. aureus (ATCC 25923): 14
+P. aeruginosa (ATCC 27853): 16   
+AgNPs-hydrogel (1mM): 
+S. aureus (ATCC 25923): 12
+P. aeruginosa (ATCC 27853): 14",Staphylococcus aureus and Pseudomonas aeruginosa,"Schinus terebinthifolius Raddi (Brazilian pepper)  , leaf",[21]
+22,42.64 nm,Spherical,NA,"Curcumin: 5, 10, and 20 
+Curcumin nanoparticles: 5, 10, and 20",18.52 mm,"Escherichia coli, Staphylococcus aureus, Pseudomonas aeruginosa, Klebsiella pneumoniae, and Aspergillus niger","Curcuma longa (Turmeric)  , Roots",[22]
+23,NA,NA,NA,"C. albicans: 600 mg/L to 900 mg/L   
+C. glabrata: 64 mg/L to 2.44 mg/mL (2440 mg/L)",NA,Candida albicans and Candida glabrata,"Punica granatum (pomegranate)   
+peel",[23]
+24,12 nm ± 1.5 nm,Spherical,0.5% AgNO3​,NA,diameter of 21 mm,"Gram-positive and gram-negative bacterial strains including E. coli, Proteus, Salmonella, and Bacillus cereus.","Marine brown algae (Sargassum angustifolium) , Algae biomass",[24]
+25,72 nm revealed a size extending from 5 to 12 nm.,Spherical,0.001M,"(69%) was observed against MRSA at 50 ppm
+(81%) was observed against P. aeruginosa",NA,"Escherichia coli, Methicillin-resistant Staphylococcus aureus (MRSA), Pseudomonas aeruginosa, and Candida albicans","Fraxinus xanthoxyloides  
+leaves",[25]
+26,17.60 nm,Spherical,1 mM,6.25 to 100 µg/mL,depends on concentration,NA,"Mespilus germanica  , leaves",[26]
+27,NA,NA,1 mM and 3 mM,1.6 to 12.5 mg/mL,NA,"Staphylococcus aureus, Staphylococcus epidermidis, Methicillin-Resistant Staphylococcus aureus (MRSA), Pseudomonas aeruginosa, and Candida albicans","Cotyledon orbiculata  , leaves",[27]
+28,NA,NA,1 mM,(1-15 µg/mL),NA,"Chromobacterium violaceum, Serratia marcescens, and Pseudomonas aeruginosa","Carum copticum  , seeds",[28]
+29,100 to 120 nm,Spherical,1mM,NA,13.33 mm,"Staphylococcus aureus, Escherichia coli, and Bacillus","Musa paradisiaca (Banana)  , leaves",[29]
+30,5-63 nm,Spherical,1mM,"E. coli: 3.90 µg/mL   
+ S. aureus: 15.63 µg/mL   
+B. subtilis: 7.81 µg/mL   
+S. epidermidis: 7.82 µg/mL   
+P. aeruginosa: 15.63 µg/mL
+S. marcescens: 62.5 µg/mL","E. coli: 20 ± 0.29 mm   
+ S. aureus: 18 ± 0.29 mm   
+B. subtilis: 15 ± 0.33 mm   
+S. epidermidis: 13 ± 0.17 mm   
+P. aeruginosa: 13 ± 0.29 mm
+ S. marcescens: 13 ± 0.2 mm","Staphylococcus epidermidis, Staphylococcus aureus, Bacillus subtilis, Escherichia coli, Serratia marcescens, and Pseudomonas aeruginosa",Dracocephalum kotschyi Boiss  . leaves,[30]
+31,92 ± 33 nm,NA,"1, 2, and 4 mg per mL",NA,greater than 2.5 mm,"Escherichia coli (E. coli), Staphylococcus aureus (S. aureus), Staphylococcus epidermidis (S. epidermidis), Methicillin Resistant Staphylococcus aureus (MRSA), Pseudomonas aeruginosa (P. aeruginosa), Candida albicans (C. albicans) and Fluconazole-resistant Candida albicans (FRCA).",silk fibroin is derived from Bombyx mori cocoons,[31]
+32,8 to 24 nm,Spherical,1 mM,"MIC: 6.25 µg/mL for P. aeruginosa, 100 µg/mL for S. aureus","E. coli: 16.1 ± 1.5 mm (1000 µg/mL), 13.9 ± 0.8 mm (500 µg/mL)   
+P. aeruginosa: 16.6 ± 1.3 mm (1000 µg/mL), 15.1 ± 1.0 mm (500 µg/mL)   
+S. aureus: 13.4 ± 0.7 mm (1000 µg/mL), 11.6 ± 1.1 mm (500 µg/mL)","Escherichia coli
+Pseudomonas aeruginosa
+Staphylococcus aureus",NA,[32]
+33,5.5 nm,NA,6.5 10⁻³ M,NA,NA,Salmonella spp.,"Lemon (Citrus limon), juice",[33]
+34,42 nm,Cubic,2 mM,10.5 mm,Maximum inhibitory efficiency was observed against Pseudomonas aeruginosa and Klebsiella pneumoniae,"Pseudomonas aeruginosa   
+Klebsiella pneumoniae","Calotropis procera  , latex",[34]
+35,4-25 nm,Spherical,1 mM,NA,NA,NA,"Sacha inchi (Plukenetia volubilis L.)  ,leaves",[35]
+36,1-20 nm,spherical particles,1 mM,NA,NA,NA,"Vitex agnus-castus  , leaves",[36]
+37,37 to 44 nm,"Mostly spherical, with some rod and triangle shapes",1 mM,NA,NA,Klebsiella planticola and Bacillus subtilis,"Cissus quadrangularis, stem",[37]
+38,1 to 100 nm,NA,NA,NA,NA,Bacillus subtilis and Klebsiella planticola,"Vitis vinifera, fruit",[38]
+39,7-31 nm,Spherical,1 mM,"  0, 6, 12, and 18 µg/mL.   
+",NA,E. coli O157:H7 and L. monocytogenes,"Turmeric (Curcuma longa), Extracts (presumably from the rhizome)",[39]
+40,10-50 nm to 100-200 nm,Spherical,1 mM,100-3.12 mg/mL,NA,"Nosocomial bacteria: Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumonia, Acinobacter baumannii, Pseudomonas aeruginosa, Enterobacter spp","Caesalpinia bonduc   
+Dialium guineense   
+Momordica charantia   
+Moringa oleifera   
+Pavetta corymbosa   
+Psidium guajava   
+leaves",[40]
+41,NA,Spherical,6 mM,NA,"  For Bacillus: 4 mm (60 µg/mL), 9 mm (80 µg/mL), 13.5 mm (100 µg/mL)   
+  For Pseudomonas: 8 mm (60 µg/mL), 11 mm (80 µg/mL), 14 mm (100 µg/mL)",Bacillus subtilis and Pseudomonas aeruginosa (bacteria),"Aegle marmelos  ,leaves",[41]
+42,20 to 30 nm,Various shapes,0.001 M,NA,14 mm,Escherichia coli,"Ziziphus Jujuba  , leaves",[42]
+43,~10-50 nm,Spherical,1 mM,NA,NA,E. coli and P. aeruginosa (bacteria),"Prosopis juliflora  , bark",[43]
+44,5 to 100 nm.,spherical,"1 mM and 5 mM, 0.25-3 mM, and 0.1 mM.","between 20 and 110 micrograms per milliliter for E. coli, 60 and 160 micrograms per milliliter for Bacillus subtilis, 30 and 120 micrograms per milliliter, and 70 and 200 micrograms per milliliter for Staphylococcus aureus. Bactericidal concentrations ranged from 30 to 140 micrograms per milliliter for all strains, except for Staphylococcus aureus",NA,"Gram-positive bacteria, such as Staphylococcus aureus, and Gram-negative bacteria, like Escherichia coli, Pseudomonas aeruginosa, and Klebsiella pneumoniae","Cannabis sativa L, Leaf, hemp hurd (stem)",[44]
+45,10-20 nm,Spherical,1 mM,NA,"  1 mM AgNPs solution: 13.75 mm 
+  3 mM AgNPs solution: 15.875 mm 
+  5 mM AgNPs solution: 16.25 mm 
+  AgNO3 solution: 12.125 mm 
+  Control (Ampicillin): 3.875 mm","Chromobacterium violaceum, Enterococcus faecalis, Escherichia coli, Enterobacter cloacae, Pseudomonas aeruginosa, Escherichia fergusonii, Salmonella enterica, and Aspergillus niger (Fungus)","Equisetum  , leaf",[45]
+46,"148.8, 126.5, and 89.78 nm (average values)","mixture of spherical, hexagonal, and triangular","1, 2, and 3 mM",NA,"Escherichia coli:Inhibition zone diameter of 9.4 ± 0.3 mm (1 mM AgNO3​), 10.0 ± 0.3 mm (2 mM AgNO3​) and 10.0 ± 0.4 mm (3 mM AgNO3​)   
+Staphylococcus aureus: Inhibition zone diameter of 8.5 ± 0.2 mm (2 mM AgNO3​) and 8.4 ± 0.3 mm (3 mM AgNO3​). No inhibition zone was observed at 1mM AgNO3​",Escherichia coli and Staphylococcus aureus,"Ruellia napifera (Gempur Batu), leaf",[46]
+47,NA,NA,0.01 mM and 1 mM,NA,NA,NA,"Artemisia schrenkiana, leaf",[47]
+48,15 nm and 30-53 nm,Hexagonal,10 mM,NA,"E. coli and Klebsiella: 20 mm (at 150 mg/mL)   
+S. mutans: 15 mm (at 150 mg/mL)","Klebsiella, Escherichia coli, and Streptococcus mutans","Eriobotrya japonica  , seed",[48]
+49,12 nm (average),Spherical,"10,000 ppm mol/L",NA,NA,NA,"Ananas comosus , fruit",[49]
+50,10-80 nm,"Spherical, triangular, and hexagonal",1 mM,NA,NA,NA,"Pometia pinnata (Matoa)  , leaves",[50]
+51,m,Quasi-spherical,0.05 g,NA,"Staphylococcus aureus: 26 mm
+Bacillus subtilis: 25 mm
+Escherichia coli: 30 mm","Staphylococcus aureus, Bacillus subtilis, Escherichia coli","Murraya koenigii , fruit",[51]
+52,NA,NA,"1 mM, 0.10 M",NA,Bacillus subtilis (35 mm) and Candida albicans (34 mm),"Klebsiella pneumoniae, Escherichia coli, Staphylococcus aureus, Bacillus subtilis, and Candida albicans","Solenostemma argel, Citrullus colocynthis, Syzygium aromaticum, Foeniculum vulgare, Maerua crassifolia, and Elettaria cardamomum , Leaves, seeds, and flowers",[52]
+53,16 nm.,NA,0.1 mM - 2 mM,NA,difference in the zone of inhibition observed,E. coli and P. aeruginosa,"Cordia dichotoma  , leaf",[53]
+54,m,NA,1 mM,NA,NA,"Klebsiella pneumoniae, Bacillus subtilis, Pseudomonas aeruginosa, and Salmonella paratyphi","Cocos nucifera , Inflorescence",[54]
+55,12-30 nm (with a mean diameter of 20.34 ± 1.69 nm),Spherical,0.01 M,"Staphylococcus aureus*: 128 µg/mL   
+Listeria monocytogenes*: 64 µg/mL   
+Escherichia coli*: 16 µg/mL   
+Pseudomonas aeruginosa*: 32 µg/mL",15 mm,"Staphylococcus aureus*   
+Listeria monocytogenes*   
+Escherichia coli*   
+Pseudomonas aeruginosa*","Carya illinoinensis (Pecan)  , leaf",[55]
+56,NA,spherical,4 mM,NA,NA,"Klebsiella pneumoniae (gram-negative)   
+Salmonella typhimurium (gram-negative)   
+Streptococcus pneumoniae (gram-positive","Hagenia abyssinica (Kosso)  , leaf",[56]
+57,NA,NA,"0, 2, 4, 6, and 8 mg L-1",NA,NA,NA,"Triticum aestivum L. (Wheat), mature wheat embryos",[57]
+58,21 nm,spherical,10 mmol/L being the optimum,NA,NA,NA,"Eucalyptus oleosa  , leaf",[58]
+59,11.56 nm (average),Spherical and homogenous,5.0 mM,NA,14.8-24.7 mm,"Staphylococcus aureus   
+Methicillin-resistant Staphylococcus aureus (MRSA)   
+Staphylococcus epidermidis   
+Streptococcus pyogenes   
+Klebsiella pneumoniae   
+Pseudomonas aeruginosa   
+Trichophyton mentagrophytes   
+Candida albicans","Melaleuca alternifolia   
+leaves",[59]
+60,23 ± 2 nm,Spherical,1 mM,NA,"Escherichia coli: 16 mm   
+Pseudomonas putida: 17 mm   
+Staphylococcus aureus: 15 mm   
+Micrococcus luteus: 15 mm","Gram-negative bacteria: Escherichia coli, Pseudomonas aeruginosa, Pseudomonas putida   
+Gram-positive bacteria: Staphylococcus aureus, Micrococcus luteus","Saraca indica  , leaf",[60]
+61,"sizes less than 100nm, TEM  upto 200nm","Approximately spherical, triangular, and cuboidal (depending on the plant extract)",1 mM,NA,"Escherichia coli: 14 mm (banana), 12 mm (neem), 14 mm (tulsi)   
+Bacillus sp.: 16 mm (banana), 14 mm (neem), 14 mm (tulsi)","Escherichia coli (E. coli)   
+Bacillus sp.","Musa balbisiana (banana), Azadirachta indica (neem), and Ocimum tenuiflorum (black tulsi)  , leaf",[61]
+62,"1.2 to 62 nm, with an average size of 5 nm",Spherical and quasi-spherical,,"0.06 µg/mL for E. coli, P. aeruginosa and S. aureus, 0.13 µg/mL for C. albicans","E. coli: 18.0 ± 1.3 mm
+S. aureus: 16.0 ± 1.0 mm
+P. aeruginosa: 15.0 ± 0.5 mm","Escherichia coli   
+Staphylococcus aureus   
+Pseudomonas aeruginosa   
+Candida albicans","Lysiloma acapulcensis  , aqueous extract",[62]
+63,109 ± 50 nm,Aggregates of spherical nanoparticles,10 mg in 15 mL,NA,NA,"Escherichia coli   
+Staphylococcus aureus","Cedrus libani  , wood",[63]
+64,"12 nm, 30 nm, 43-59 nm, 10-50 nm, 20 nm, 40 nm, 25 nm, 5-68 nm, 50-70 nm, and 20-25 nm.","spherical, oval, or have an unusual shape.",1mM,NA,NA,"Aeromonas hydrophila, Flavobacterium, Pseudomonas fluorescens, Staphylococcus aureus and Shigella spp, S. typhi, E. coli, S. aureus, and B. subtilis","Ananas comosus, Argemone mexicana, Neem and Triphala, Arachis hypogaea (peanut), Malus domestica, Ocimum sanctum, Jatropha curcas, Cassia auriculata, Geranium, Ficus benghalensis, Acorus calamus, Boerhaavia diffusa, Acalypha indica, Chenopodium album, Ficus carica, Olea europaea, Abutilon indicum, Aloe vera, Syzygium alternifolium, Sambucus nigra, Artocarpus heterophyllus, Leptadenia reticulate, Morus alba (mulberry), Alternanthera dentate, Acacia leucophloea, Chrysanthemum indicum L., Parthenium hysterophorus and Premna herbacea   
+: Leaves, stems, shoots, barks, flowers, seeds, fruits and latex are used for synthesizing AgNPs.",[64]
+65,30-50 nm,"Ellipsoidal, with the minor axis between 30-50 nm and the major axis between 30-50 nm",2 mM,NA,NA,"Gram-positive Staphylococcus aureus and Bacillus subtilis, and Gram-negative Escherichia coli, Pseudomonas aeruginosa, and Klebsiella pneumoniae.","Cajanus scarabaeoides   , leaf",[65]
+66,22-32 nm,Spherical,1mM,"  Serratia marcescens (NCIB 1377): 3.75 mg/mL   
+  Bacillus subtilis (NCIB3610): 1.88 mg/mL   
+  Staphyloccocus aureus (NCIB 8588): 0.94 mg/mL   
+  Bacillus cereus (NCIB 6349): 1.88 mg/mL   
+  Klebsiella pneumoniae (NCIB 418): 0.94 mg/mL   
+  Proteus vulgaris (NCIB67): 3.75 mg/Ml",NA,broad-spectrum,Musa acuminata (banana)  peel,[66]
+67,20 to 80 nm,Spherical,0.1 mM,NA,17 mm against both Staphylococcus aureus and Escherichia coli,"E. coli, S. aureus","Arachis hypogaea (groundnut), root",[67]
+68,61.8 nm (average),,1mM and 2mM,NA,NA,mesophilic aerobic and facultative-anaerobic microorganisms.,"Spruce, Needles (and branches)",[68]
+69,"10 to 50 nm, 20-40 nm, 25-50 nm, and 6-57 nm.",spherical and oval,"1mM, with a range of 0.25 to 10 mM",NA,NA,gram-negative and gram-positive bacteria,"Azadirachta indica (neem), Cymodocea serrulata (sea grass), Ananas comosus (pineapple), Chrysanthemum morifolium, Musa paradisiaca (banana), leaves, fruit, and peel",[69]
+70,20 to 70 nm (average),spherical and oval,10^-4 M,NA,"Propionibacterium acnes: 18 mm   
+Staphylococcus epidermidis: 20 mm","Propionibacterium acnes
+Staphylococcus epidermidis","Prunus yedoensis (Yoshino cherry)  , leaf",[70]
+71,15 to 20 nm,Spherical,1 mM,NA,NA,Gram-negative bacteria and moderate antifungal activity,"Azadirachta indica, Mangifera indica, Eucalyptus, and Fenugreek ,extracts",[71]
